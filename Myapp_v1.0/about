@@ -1,0 +1,2 @@
+take every 20 minute reading from dht22 and dump temp hum into mysql
+read temp hum into web app acorrding user choice datetime
